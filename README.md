@@ -1,7 +1,7 @@
 # Hi, I'm Ubyd
 
 <p align="center">
-  <img src="assets/aku-haesi.png" alt="Sticker of me holding the HSI Boarding School logo with the caption 'aku haesi'" width="400">
+  <img src="assets/akuhsilogo.jpeg" alt="Sticker of me holding the HSI Boarding School logo with the caption 'aku haesi'" width="400">
 </p>
 
 <p align="center"><i>"aku haesi" — yes, that's my school, and yes, I'm proud of it.</i></p>
